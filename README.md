@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá,chamo-me Roberto Farias e sou contador de formação - depois de vários anos atuando na minha área de formação decidi migrar para a de tecnologia da informação.
+### Inicialmente, atuei como consultor/suporte de sistemas ERP(Enterprise Resource Planning) mais especificamente para o SAP Business One somente depois é que consegui entrar de vez no desenvolvimento de sistemas.
+### Desde então venho atuando com desenvolvimento .NET/C#.
 
 <!--
 **RobertoFarias1989/RobertoFarias1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
